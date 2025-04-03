@@ -7,6 +7,7 @@
   box-sizing: border-box;
   text-decoration: none;
   scroll-behavior: smooth;
+  background-color: linear-gradient(90deg,#FF0000 50%,#0000FF 50%);
 }
 
 /* Custom Scroll Bar CSS */
